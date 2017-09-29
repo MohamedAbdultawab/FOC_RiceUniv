@@ -1,4 +1,6 @@
-# This project has to be run in codeskulptor.org
+# Guess the number
+# this project has to be run in codeskulptor.org
+# An online version could be found here: www.codeskulptor.org/#user43_kgdfsZQwe8_1.py
 # input will come from buttons and an input field
 # all output for the game will be printed in the console
 
