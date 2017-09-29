@@ -1,4 +1,6 @@
 # Rock-paper-scissors-lizard-Spock
+# this project has to be run in codeskulptor.org
+# An online version could be found here: http://www.codeskulptor.org/#user43_3gGRNpuZM6iBOVp.py
 
 # 0 - rock
 # 1 - Spock
