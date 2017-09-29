@@ -1,4 +1,4 @@
-# template for "Stopwatch: The Game"
+# Stopwatch: The Game
 # this project has to be run in codeskulptor.org
 # An online version could be found here: www.codeskulptor.org/#user43_ci15x2T36H_0.py
 
