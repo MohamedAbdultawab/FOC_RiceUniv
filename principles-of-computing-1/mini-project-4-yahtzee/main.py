@@ -1,3 +1,4 @@
+# this project has to be run in codeskulptor.org
 """
 Planner for Yahtzee
 Simplifications:  only allow discard and roll, only score against upper level

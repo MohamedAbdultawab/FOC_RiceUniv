@@ -1,3 +1,4 @@
+# this project has to be run in codeskulptor.org
 """
 Clone of 2048 game.
 """

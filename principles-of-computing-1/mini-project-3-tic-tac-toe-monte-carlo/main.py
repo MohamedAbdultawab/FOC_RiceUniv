@@ -1,3 +1,4 @@
+# this project has to be run in codeskulptor.org
 """
 Monte Carlo Tic-Tac-Toe Player
 """

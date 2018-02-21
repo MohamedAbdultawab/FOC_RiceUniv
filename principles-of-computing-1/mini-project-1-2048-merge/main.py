@@ -1,3 +1,4 @@
+# this project has to be run in codeskulptor.org
 """
 Merge function for 2048 game.
 """
